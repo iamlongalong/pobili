@@ -1,0 +1,11 @@
+1.完善api数据调用的内容，书写规范的API文档。
+  具体而言：①nav game downpage 的API；②nav live downpage 的API；③nav active downpage的API
+④Menu list 的API ⑤chief recom left的API； ⑥chief recom right的API；⑦manga rank的API。
+⑧视频的弹幕API
+
+2.设计数据库表的需求。
+  具体而言：①user信息表；②user密码表；③user登陆表；④user访问页面表；⑤user消息表；⑥user操作表；
+⑦user Token表；⑧user权限表；⑨user评论表；⑩user弹幕表；
+  其他实体：①game信息表；②game资源表；③video信息表；④video资源表（采用什么方式存储？）；
+
+

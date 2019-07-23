@@ -1,0 +1,12 @@
+修改部分：
+1.投稿样式++
+2.menu下拉菜单圆角修改++
+3.游戏downpage leftdownpic背景大小修改++
+4.chiefrecom轮播图制作++
+5.live轮播图制作++
+6.live modtext位置修改++
+7.给js函数做注释++
+
+添加部分：
+1.footing制作++
+2.播放页布局设计+-
